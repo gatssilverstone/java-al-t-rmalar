@@ -1,1 +1,1 @@
-Java alıştırma sürecinde yaptığım pratikler.
+Java alıştırma sürecinde yaptığım pratikler..
